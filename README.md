@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm itzKashii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;A+Lover+Boy;Gamer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a student who likes to make a discord bot using **node.js** or **javascript** and currently learning other programming languages like **python** , and **typescript**.</h4>
@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itzKashii&label=Profile%20views&color=0e75b6&style=plastic" alt="Devansh" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itzKashii&theme=algolia" alt="Devansh"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itzKashii&theme=algolia" alt="itzKashii"  /></p>
 
 
 ## 🛠️ My Skills
@@ -40,29 +40,17 @@
   &emsp;
     <a href="https://www.repl.it/"><img alt="Replit" src="https://img.shields.io/badge/-Repl.it-yellowgreen?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
-  
-### 👉Graphic Designing
-<p align="left">
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+ 
 
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    &emsp;
+    <a href="https://www.repl.it/"><img alt="Replit" src="https://img.shields.io/badge/-Repl.it-yellowgreen?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
 </p>
 
 <br/>
@@ -74,10 +62,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Devansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="itzKashii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzKashii&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshyadav2010&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzKashii&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -87,7 +75,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/devanshyadav2010"><img alt="Devansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devanshyadav2010&custom_title=dEVANSH%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itzKashii0"><img alt="Devansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itzKashii&custom_title=dEVANSH%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
