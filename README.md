@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;A+Lover+Boy;Gamer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a student who likes to make a discord bot using **node.js** or **javascript** and currently learning other programming languages like **python** , and **typescript**.</h4>
+<h4 align="center">I am a student who likes to make a discord bot using <u>node.js</u> or <u>javascript</u> and currently learning other programming languages like <u>python</u> , and <u>typescript</u>.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itzKashii&label=Profile%20views&color=0e75b6&style=plastic" alt="Devansh" /> </p>
 
