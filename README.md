@@ -38,7 +38,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.repl.it/"><img alt="Replit" src="https://img.shields.io/badge/-Repl.it-yellowgreen?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
@@ -48,7 +48,7 @@
  
 <p>
     &emsp;
-    <a href="https://mongodb.com/"><img alt="MongoDB" src="https://https://img.shields.io/badge/-MongoDB-green?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.repl.it/"><img alt="Replit" src="https://img.shields.io/badge/-Repl.it-yellowgreen?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
@@ -75,7 +75,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/itzKashii0"><img alt="Devansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itzKashii&custom_title=dEVANSH%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itzKashii0"><img alt="itzKashii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itzKashii&custom_title=dEVANSH%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
